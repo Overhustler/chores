@@ -3,4 +3,6 @@ __pycache__/
 *.pyc
 output/
 ChoreList.txt
-
+choreTest.txt
+chores.db
+test_chores.db
